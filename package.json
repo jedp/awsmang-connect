@@ -4,7 +4,7 @@
     "private": true,
 
     "description": "Connect middleware for exposing awsbox system stats",
-    "main": "lib/awsmang-connect.js",
+    "main": "index",
 
     "dependencies": {
     },
