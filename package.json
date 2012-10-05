@@ -1,6 +1,6 @@
 {
     "name": "awsmang-connect",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Jed Parsons <jed@jedparsons.com>",
 
     "description": "Connect middleware for exposing awsbox system stats",
